@@ -1,2 +1,2 @@
 # ikenga
-Repository for https://ehiia.github.com/ikenga
+Repository for the Ikenga Project housed at https://ehiia.github.com/ehiia
